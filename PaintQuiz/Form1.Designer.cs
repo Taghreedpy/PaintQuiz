@@ -131,7 +131,7 @@
             Controls.Add(txtHeight);
             Controls.Add(txtWidth);
             Name = "Form1";
-            Text = "Form1";
+            Text = "PaintCalc";
             ResumeLayout(false);
             PerformLayout();
         }
